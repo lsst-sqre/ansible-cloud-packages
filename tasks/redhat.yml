@@ -1,5 +1,5 @@
 ---
 # Install cloud packages on redhat based systems.
 
-- name: Install panopticon package dependencies
+- name: Install cloud-init.
   yum: name=cloud-init state=installed
