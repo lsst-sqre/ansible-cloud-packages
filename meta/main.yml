@@ -3,7 +3,7 @@ galaxy_info:
   description: LSST SQuaRE's cloud packages.
   company: LSST SQuaRE
   issue_tracker_url: https://github.com/lsst-sqre/ansible-cloud-packages/issues
-  license: MIT  
+  license: MIT
   min_ansible_version: 2.0
   platforms:
   - name: EL
