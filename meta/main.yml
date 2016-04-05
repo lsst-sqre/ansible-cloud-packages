@@ -21,7 +21,7 @@ galaxy_info:
   #  - lenny
   #  - squeeze
   #  - wheezy
-  
   galaxy_tags:
     - cloud
     - cloud-init
+dependencies: []
