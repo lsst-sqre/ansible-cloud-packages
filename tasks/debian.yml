@@ -1,0 +1,5 @@
+---
+# Install cloud packages on debian based systems.
+
+- name: Install cloud-init.
+  apt: name=cloud-init state=latest update_cache=yes install_recommends=no
